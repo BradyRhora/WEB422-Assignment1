@@ -1,0 +1,26 @@
+{
+  "name": "web422-assignment1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BradyRhora/WEB422-Assignment1.git"
+  },
+  "author": "Brady Rhora",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BradyRhora/WEB422-Assignment1/issues"
+  },
+  "homepage": "https://github.com/BradyRhora/WEB422-Assignment1#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.8.3"
+  }
+}
